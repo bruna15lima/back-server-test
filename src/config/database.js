@@ -6,6 +6,7 @@ module.exports = {
   database: "comigo",
   define: {
     timestamp: true,
+    underscored: true,
     underscoredAll: true,
   },
 };
